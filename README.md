@@ -1,5 +1,5 @@
 <h2> Hi, I'm Nishant Dutt Mishra!
-<img align='right' src="https://files.oyebesmartest.com/uploads/large/aesthetic-berlin-money-hean3kq.jpg" width="230">
+<img align='right' src="https://cdna.artstation.com/p/assets/images/images/029/075/126/large/soumik-choudhury-berlin.jpg?1596388689&dl=1" width="230">
 </em></p>
 
 [![Linkedin: nishant](https://img.shields.io/badge/-nishant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishant-dutt-mishra/)](https://www.linkedin.com/in/nishant-dutt-mishra/)
