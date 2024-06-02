@@ -13,7 +13,7 @@ const thai = {
   pronouns: "He" | "Him",
   code: [Python, Java, Javascript],
   tools: ["Spring MVC", "Hibernate", "Springboot"],
-  architecture: [ "design system pattern"],
+  architecture: [ "Springboot, React Native, Design Patterns, Hibernate, AWS, Mongo DB, SOL, Redis CACHE"],
 }
 ```
 
